@@ -1,6 +1,6 @@
 -> Hi, I'm Fábio Domingues 👋 <-
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and VUE
 
  <div>
   <a href="https://github.com/FabioLH">
