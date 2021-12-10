@@ -1,7 +1,5 @@
 -> Hi, I'm Fábio Domingues 👋 <-
 
-- 🌱 I’m currently learning JavaScript and VUE
-
  <div>
   <a href="https://github.com/FabioLH">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioLH&show_icons=true&theme=gothan&include_all_commits=true&count_private=true"/>
