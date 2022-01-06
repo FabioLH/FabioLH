@@ -1,6 +1,6 @@
 -> Olá, me chamo Fábio Domingues 👋 <-
 
-Um full stack web developer louco por tecnologia, buscando transformar ideias divertidas em realidade através da programação.
+Um web developer louco por tecnologia, buscando transformar ideias divertidas em realidade através da programação.
 
  <div>
   <a href="https://github.com/FabioLH">
